@@ -2,7 +2,7 @@
   "name": "nodejs-homework-1-contacts",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "CLI-Application",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index",
